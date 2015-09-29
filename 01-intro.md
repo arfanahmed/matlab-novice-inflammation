@@ -61,7 +61,7 @@ absolute file path.
 > path in any version of Octave, including command-line-only installations, use
 > `addpath('path/to/directory')`
 
-Before we can start programming, we need to know a little about the MATLAB interface.
+Before we can start programming with MATLAB, we need to know a little about the MATLAB interface.
 Using the default setup, the MATLAB desktop contains several important sections:
 
 * In the **Command Window** or shell we can run and debug our code.
